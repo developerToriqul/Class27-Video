@@ -1,0 +1,12 @@
+@media (max-width:1200px){
+    .header-btn {
+        width: 20%;
+        padding-right: 10px;
+        box-sizing: border-box;
+    }
+}
+@media (max-width: 1166px){
+    .header-section{
+        padding-left: 20px;
+    }
+}
